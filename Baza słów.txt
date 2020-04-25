@@ -1,23 +1,29 @@
 BAZA SŁÓW DO PROJEKTU
 **************************************************
-Polski: (9)
+Polski: (12)
 mistrz
+amalgamat
 klawiatura
 królestwo
 prezydent
 widoczność
 zagrożenie
+żywotność
+prowadzący
 Konstantynopol
 sprawiedliwość
 pięćdziesięciogroszówka
 **************************************************
-Angielski: (9)
+Angielski: (12)
 master
 garage
 easiest
 keyboard
 solution
+courtyard
 university
 dehydration
 architecture
+hypothetically
 entrepreneur
+incomprehensible
