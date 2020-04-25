@@ -1,20 +1,25 @@
 BAZA SŁÓW DO PROJEKTU
 **************************************************
-Polski: (12)
+Polski: (17)
 mistrz
+bohater
 amalgamat
 klawiatura
 królestwo
 prezydent
+horyzont
+usuwanie
 widoczność
 zagrożenie
 żywotność
 prowadzący
+transformata
+biblioteczny
 Konstantynopol
 sprawiedliwość
 pięćdziesięciogroszówka
 **************************************************
-Angielski: (12)
+Angielski: (14)
 master
 garage
 easiest
@@ -23,6 +28,8 @@ solution
 courtyard
 university
 dehydration
+insatiable
+organization
 architecture
 hypothetically
 entrepreneur
