@@ -2,6 +2,8 @@ BAZA SŁÓW DO PROJEKTU
 
 Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
 
+TO DO: podzielić słowa na poziomy trudności
+
 ****************************************************************************************************************************************
 
 Polski: (22)
