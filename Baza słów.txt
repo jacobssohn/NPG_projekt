@@ -4,32 +4,38 @@ Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
 
 ****************************************************************************************************************************************
 
-Polski: (18)
-mistrz
+Polski: (22)
+ŁATWY: mistrz
 bohater
+witaminy
 amalgamat
 klawiatura
 królestwo
 prezydent
 horyzont
 usuwanie
+notatnik
 widoczność
 zagrożenie
+matematyka
 żywotność
 prowadzący
 transformata
 biblioteczny
-Konstantynopol
-sprawiedliwość
-pięćdziesięciogroszówka
-TRUDNY : człowieczeństwo
+TRUDNY: bezpieczeństwo
+TRUDNY: Konstantynopol
+TRUDNY: sprawiedliwość
+TRUDNY: pięćdziesięciogroszówka
+TRUDNY: człowieczeństwo
 
 ****************************************************************************************************************************************
 
-Angielski: (15)
+Angielski: (17)
 master
 garage
+flying
 meeting
+laughter
 easiest
 keyboard
 solution
