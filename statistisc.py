@@ -14,7 +14,7 @@ def Sorting():
         tuple = (list[0] ,float(list[1]))
         result_tuples.append(tuple)
     sorted_results = sorted(result_tuples, key = lambda tuple: tuple[1])
-    sorted_results.reverse()
+    sorted_results.reverse() '''w razie potrzeby odczytu od konca zakomentowac ta linie'''
     sorted_list = []
     for results in sorted_results:
         line = results[0] + " " + str(results[1]) + "\n"
