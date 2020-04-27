@@ -1,86 +1,91 @@
 BAZA SŁÓW DO PROJEKTU
 
+Proszę o wpisywanie alfabetycznie, będzie prościej później sprawdzać czy nie ma powtórzeń
 Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
 
 TO DO: podzielić słowa na poziomy trudności
 
 ****************************************************************************************************************************************
 
-Polski: (22)
-ŁATWY: mistrz
-bohater
-witaminy
+Polski: (26)
 amalgamat
-klawiatura
-królestwo
-prezydent
-horyzont
-usuwanie
-notatnik
-widoczność
-zagrożenie
-matematyka
-żywotność
-prowadzący
-transformata
+bezpieczeństwo
 biblioteczny
-TRUDNY: bezpieczeństwo
-TRUDNY: Konstantynopol
-TRUDNY: sprawiedliwość
-TRUDNY: pięćdziesięciogroszówka
-TRUDNY: człowieczeństwo
+bohater
+człowieczeństwo
+horyzont
+klawiatura
+Konstantynopol
+królestwo
+matematyka
+mistrz
+narodowy
+nawodnienie
+notatnik
+pięćdziesięciogroszówka
+prezydent
+programistyczny
+prowadzący
+sprawiedliwość
+słownictwo
+transformata
+usuwanie
+widoczność
+witaminy
+zagrożenie
+żywotność
 
 ****************************************************************************************************************************************
 
 Angielski: (51)
-master
-garage
-flying
-meeting
-laughter
-easiest
-keyboard
-solution
-courtyard
-university
-dehydration
-insatiable
-organization
-architecture
-hypothetically
-entrepreneur
-incomprehensible
-embarrassment
-aubergine
-inconvenient
-melancholy
-substance
-violence
 anthem
-commerce
-kaleidoscope
-characteristics
-courageous
-constricted
-kerosene
-witchcraft
-lemonade
-bulletproof
-hallucinations
-cutthroat
-nightmare
-underground
-nocturnal
-desensitize
-individuality
-pumpkin
-incinerate
-attention
+architecture
 asterisk
-departure
-malfunction
-interference
-delightful
-introduction
+attention
+aubergine
+bulletproof
+characteristics
 circadian
 colorblind
+commerce
+constricted
+courageous
+courtyard
+cutthroat
+dehydration
+delightful
+departure
+desensitize
+easiest
+embarrassment
+entrepreneur
+flying
+garage
+hallucinations
+hypothetically
+incinerate
+incomprehensible
+inconvenient
+individuality
+insatiable
+interference
+introduction
+kaleidoscope
+kerosene
+keyboard
+laughter
+lemonade
+malfunction
+master
+meeting
+melancholy
+nightmare
+nocturnal
+organization
+pumpkin
+solution
+substance
+underground
+university
+violence
+witchcraft
