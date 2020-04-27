@@ -32,7 +32,7 @@ TRUDNY: człowieczeństwo
 
 ****************************************************************************************************************************************
 
-Angielski: (17)
+Angielski: (51)
 master
 garage
 flying
@@ -50,3 +50,37 @@ architecture
 hypothetically
 entrepreneur
 incomprehensible
+embarrassment
+aubergine
+inconvenient
+melancholy
+substance
+violence
+anthem
+commerce
+kaleidoscope
+characteristics
+courageous
+constricted
+kerosene
+witchcraft
+lemonade
+bulletproof
+hallucinations
+cutthroat
+nightmare
+underground
+nocturnal
+desensitize
+individuality
+pumpkin
+incinerate
+attention
+asterisk
+departure
+malfunction
+interference
+delightful
+introduction
+circadian
+colorblind
