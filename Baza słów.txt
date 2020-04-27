@@ -3,7 +3,8 @@ BAZA SŁÓW DO PROJEKTU
 Proszę o wpisywanie alfabetycznie, będzie prościej później sprawdzać czy nie ma powtórzeń
 Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
 
-TO DO: podzielić słowa na poziomy trudności
+TO DO: wymyślić min. 75 słów polskich i angielskich
+       podzielić słowa na poziomy trudności
 
 ****************************************************************************************************************************************
 
