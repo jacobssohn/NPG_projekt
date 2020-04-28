@@ -57,9 +57,10 @@ zagrożenie
 
 ****************************************************************************************************************************************
 
-Angielski: (56)
+Angielski: (65)
 anniversary
 anthem
+apprentice
 architecture
 asterisk
 attention
@@ -73,14 +74,19 @@ constricted
 courageous
 courtyard
 cutthroat
+daughter
 dehydration
 delightful
 departure
 desensitize
+distortion
 easiest
+earthquake
 embarrassment
+entertainment
 entrepreneur
 executable
+explicit
 flying
 garage
 hallucinations
@@ -103,11 +109,14 @@ meeting
 melancholy
 nightmare
 nocturnal
+oblivion
 organization
+penitentiary
 pumpkin
 revolving
 solution
 substance
+thunderstorm
 translucent
 underground
 university
