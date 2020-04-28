@@ -8,26 +8,38 @@ TO DO: wymyślić min. 75 słów polskich i angielskich
 
 ****************************************************************************************************************************************
 
-Polski: (45)
+Polski: (64)
+akcelerator
+aksjomat
 alfabet
 amalgamat
+aranżacja
+archeolog
+autentyczny
+autochton
 astronomia
+bagażnik 
 beznadziejny
 bezpieczeństwo
 biblioteczny
 biologiczny
 bohater
+chrząszcz
 czarnoksiężnik
 człowieczeństwo
 dziedziniec
 emerytura
+fotosynteza
 frustrujący
 gżegżółka
 horyzont
 irygator
 jowialny
+kałamarz
 klawiatura
 Konstantynopol
+kontrowersyjny
+konwersacja
 królestwo
 lefebrysta
 marynarski
@@ -37,14 +49,21 @@ narodowy
 nawodnienie
 notatnik
 ortodoksyjny
+pasikonik
 pięćdziesięciogroszówka
+powyłamywane
+półprzewodnik
 prezydent
 programistyczny
 promieniotwórczy
+prototyp
 prowadzący
+przemądrzały
+różniczkowanie
 rzeczywistość
 sprawiedliwość
 słownictwo
+Szczebrzeszyn
 transformata
 usuwanie
 widoczność
@@ -57,7 +76,7 @@ zagrożenie
 
 ****************************************************************************************************************************************
 
-Angielski: (65)
+Angielski: (66)
 anniversary
 anthem
 apprentice
@@ -111,6 +130,7 @@ nightmare
 nocturnal
 oblivion
 organization
+parentheses
 penitentiary
 pumpkin
 revolving
