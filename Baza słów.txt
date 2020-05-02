@@ -8,7 +8,7 @@ TO DO: wymyślić min. 75 słów polskich i angielskich
 
 ****************************************************************************************************************************************
 
-Polski: (64)
+Polski: (69)
 akcelerator
 aksjomat
 alfabet
@@ -53,12 +53,14 @@ pasikonik
 pięćdziesięciogroszówka
 powyłamywane
 półprzewodnik
+prawdopodobieństwo
 prezydent
 programistyczny
 promieniotwórczy
 prototyp
 prowadzący
 przemądrzały
+przychylność
 różniczkowanie
 rzeczywistość
 sprawiedliwość
@@ -70,8 +72,11 @@ widoczność
 witaminy
 wizualizacja
 wszechświat
+wybudować
 zacietrzewienie
 zagrożenie
+zniechęcający
+zrozumienie
 żywotność
 
 ****************************************************************************************************************************************
