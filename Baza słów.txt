@@ -8,7 +8,7 @@ TO DO: wymyślić min. 75 słów polskich i angielskich
 
 ****************************************************************************************************************************************
 
-Polski: (69)
+Polski: (75)
 akcelerator
 aksjomat
 alfabet
@@ -28,6 +28,7 @@ chrząszcz
 czarnoksiężnik
 człowieczeństwo
 dziedziniec
+elektronowolt
 emerytura
 fotosynteza
 frustrujący
@@ -40,6 +41,7 @@ klawiatura
 Konstantynopol
 kontrowersyjny
 konwersacja
+koralowy
 królestwo
 lefebrysta
 marynarski
@@ -61,12 +63,15 @@ prototyp
 prowadzący
 przemądrzały
 przychylność
+rozerwać
 różniczkowanie
 rzeczywistość
-sprawiedliwość
 słownictwo
+sprawiedliwość
+straganiarz
 Szczebrzeszyn
 transformata
+trudność
 usuwanie
 widoczność
 witaminy
@@ -75,6 +80,7 @@ wszechświat
 wybudować
 zacietrzewienie
 zagrożenie
+zmrużyć
 zniechęcający
 zrozumienie
 żywotność
