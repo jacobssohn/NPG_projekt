@@ -81,7 +81,7 @@ zrozumienie
 
 ****************************************************************************************************************************************
 
-Angielski: (66)
+Angielski: (75)
 anniversary
 anthem
 apprentice
@@ -89,6 +89,7 @@ architecture
 asterisk
 attention
 aubergine
+blasphemous
 bulletproof
 characteristics
 circadian
@@ -99,10 +100,12 @@ courageous
 courtyard
 cutthroat
 daughter
+defamation
 dehydration
 delightful
 departure
 desensitize
+despicable
 distortion
 easiest
 earthquake
@@ -114,10 +117,12 @@ explicit
 flying
 garage
 hallucinations
+hummingbird
 hypothetically
 incinerate
 incomprehensible
 inconvenient
+incorporated
 individuality
 insatiable
 interference
@@ -129,8 +134,10 @@ laughter
 lemonade
 malfunction
 master
+mayhem
 meeting
 melancholy
+midnight
 nightmare
 nocturnal
 oblivion
@@ -139,10 +146,12 @@ parentheses
 penitentiary
 pumpkin
 revolving
+slaughterhouse
 solution
 substance
 thunderstorm
 translucent
+unambiguous
 underground
 university
 violence
