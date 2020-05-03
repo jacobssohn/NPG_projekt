@@ -168,4 +168,4 @@ university		10
 violence		8
 witchcraft		10
 withering		9
-yieldingly		9
+yieldingly		10
