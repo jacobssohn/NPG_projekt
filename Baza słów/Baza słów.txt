@@ -1,10 +1,10 @@
-BAZA SŁÓW DO PROJEKTU
+#BAZA SŁÓW DO PROJEKTU
 
-Proszę o wpisywanie alfabetycznie, będzie prościej później sprawdzać czy nie ma powtórzeń
-Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
-DONE: wymyślić min. 75 słów polskich i angielskich
-TO DO: podzielić słowa na poziomy trudności
-       można dodawać więcej słów
+#Proszę o wpisywanie alfabetycznie, będzie prościej później sprawdzać czy nie ma powtórzeń
+#Gdy zostaną dodane nowe słowa, proszę o zwiększenie odpowiednio licznika
+#DONE: wymyślić min. 75 słów polskich i angielskich
+#TO DO: podzielić słowa na poziomy trudności
+#       można dodawać więcej słów
 
 ****************************************************************************************************************************************
 
