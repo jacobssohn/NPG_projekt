@@ -1,0 +1,171 @@
+#Tu słowa będą dzielone na poziomy trudności, na podstawie ich wartości:
+#Za każdą literę do wartości słowa zostaje dodany punkt
+#Za każdy polski znak (ą, ć, ę, ł, ó, ń, ś, ź, ż) do wartości słowa zostaje dodany punkt "s" (później przypisze się s pewną wartość liczbową)
+
+****************************************************************************************************************************************
+
+Polski: (76)
+akcelerator		11
+aksjomat		8
+alfabet			7
+amalgamat		9
+aranżacja		8+s
+archeolog		9
+autentyczny		11
+autochton		9
+astronomia		10
+bagażnik		7+s
+beznadziejny		12
+bezpieczeństwo		14
+biblioteczny		12
+biologiczny		11
+bohater			7
+chrząszcz		8+s
+czarnoksiężnik		12+2s
+człowieczeństwo		13+2s
+dziedziniec		11
+elektronowolt		13
+emerytura		9
+fotosynteza		11
+frustrujący		10+s
+gżegżółka		5+4s
+horyzont		8
+irygator		8
+jowialny		8
+kałamarz		7+s
+klawiatura		10
+Konstantynopol		14
+kontrowersyjny		14
+konwersacja		11
+koralowy		8
+królestwo		8+s
+lefebrysta		10
+marynarski		10
+matematyka		10
+mistrz			6
+narodowy		8
+nawodnienie		11
+notatnik		8
+ortodoksyjny		12
+pasikonik		9
+pięćdziesięciogroszówka	19+4s
+powyłamywane		11+s
+półprzewodnik		11+2s
+prawdopodobieństwo	17+s
+prezydent		9
+programistyczny		15
+promieniotwórczy	15+s
+prototyp		8
+prowadzący		10
+przebijający		11+s
+przemądrzały		10+2s
+przychylność		10+2s
+rozerwać		7+s
+różniczkowanie		12+2s
+rzeczywistość		11+2s
+słownictwo		9+s
+sprawiedliwość		12+2s
+straganiarz		11
+Szczebrzeszyn		13
+transformata		12
+trudność		6+2s
+usuwanie		8
+widoczność		8+2s
+witaminy		8
+wizualizacja		12
+wszechświat		10+s
+wybudować		8+s
+zacietrzewienie		15
+zagrożenie		9+s
+zmrużyć			5+2s
+zniechęcający		11+2s
+zrozumienie		11
+żywotność		6+3s
+
+****************************************************************************************************************************************
+
+Angielski: (84)
+anniversary
+anthem
+apprentice
+arachnophobia
+architecture
+asterisk
+attention
+aubergine
+blasphemous
+borderless
+bulletproof
+characteristics
+circadian
+colorblind
+commerce
+constricted
+courageous
+courtyard
+cutthroat
+daughter
+defamation
+dehydration
+delightful
+departure
+desensitize
+despicable
+dictionary
+dignity
+distortion
+diversity
+easiest
+earthquake
+embarrassment
+entertainment
+entrepreneur
+executable
+explicit
+flying
+garage
+hallucinations
+hummingbird
+hypothetically
+incinerate
+incomprehensible
+inconvenient
+incorporated
+individuality
+insatiable
+interference
+introduction
+kaleidoscope
+kerosene
+keyboard
+laughter
+lemonade
+malfunction
+master
+mayhem
+meeting
+melancholy
+midnight
+nightmare
+nocturnal
+oblivion
+organization
+overload
+parentheses
+penitentiary
+pumpkin
+revolving
+shortcut
+slaughterhouse
+solution
+stratosphere
+substance
+thunderstorm
+translucent
+unambiguous
+underground
+university
+violence
+witchcraft
+withering
+yieldingly
