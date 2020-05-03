@@ -1,6 +1,6 @@
 #Tu słowa będą dzielone na poziomy trudności, na podstawie ich wartości:
 #Za każdą "zwykłą" literę do wartości słowa zostaje dodany punkt
-#Za każdy polski znak (ą, ć, ę, ł, ó, ń, ś, ź, ż) do wartości słowa zostaje dodany punkt "s"
+#Za każdy polski znak (ą, ć, ę, ł, ń, ó, ś, ź, ż) do wartości słowa zostaje dodany punkt "s"
 #(później przypisze się s pewną wartość liczbową)
 
 ****************************************************************************************************************************************
@@ -17,7 +17,7 @@ autochton		9
 astronomia		10
 bagażnik		7+s
 beznadziejny		12
-bezpieczeństwo		14
+bezpieczeństwo		13+s
 biblioteczny		12
 biologiczny		11
 bohater			7
