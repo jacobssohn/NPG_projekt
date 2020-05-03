@@ -1,7 +1,7 @@
 #Tu słowa będą dzielone na poziomy trudności, na podstawie ich wartości:
 #Za każdą literę do wartości słowa zostaje dodany punkt
 #Za każdy polski znak (ą, ć, ę, ł, ó, ń, ś, ź, ż) do wartości słowa zostaje dodany punkt "s"
-(później przypisze się s pewną wartość liczbową)
+#(później przypisze się s pewną wartość liczbową)
 
 ****************************************************************************************************************************************
 
