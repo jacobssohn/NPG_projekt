@@ -1,7 +1,7 @@
 # NPG_projekt
 # Gra na Narzędzia Pracy Grupowej
 # Branch interfejsu, będę tutaj wrzucać update'y na bieżąco /TN 
-
+# 
 # Jeżeli chcesz zobaczyć jak gra działa aktualnie:
 # -pobierz aktualną wersję aplikacji,
 # -otwórz cały folder jako projekt w pycharm
