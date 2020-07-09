@@ -170,4 +170,4 @@ vocalist                8
 witchcraft		10
 withering		9
 yieldingly		10
-zealous                         7
+zealous                 7
