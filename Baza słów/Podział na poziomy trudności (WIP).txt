@@ -84,7 +84,7 @@ zrozumienie		11
 
 ****************************************************************************************************************************************
 
-Angielski: (84)
+Angielski: (86)
 anniversary		11
 anthem			6
 apprentice		10	
@@ -166,6 +166,8 @@ unambiguous		11
 underground		11
 university		10
 violence		8
+vocalist                8
 witchcraft		10
 withering		9
 yieldingly		10
+zealous                         7
