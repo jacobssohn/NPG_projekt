@@ -11,3 +11,9 @@ Wartość słów to ilość liter (w języku polskim należy do tego dodać pols
 	TRUDNY - >=13
 
 # Angielski:
+
+	ŁATWY - <=8
+	
+	ŚREDNI - [9,10]
+	
+	TRUDNY - >=11
