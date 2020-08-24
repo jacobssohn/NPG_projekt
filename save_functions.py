@@ -15,9 +15,23 @@ def Sorting(Player_File): #Funkcja sortujaca statystyki w pliku tekstowym
             tuple=(list[0],float(list[1]))
             result_tuples.append(tuple)
         sorted_results = sorted(result_tuples, key= lambda tuple: tuple[1])
-        #sorted_results.reverse()  #Odkomentowanie tej linii zamieni kolejnosc wypisywania
+        sorted_results.reverse()  #Zakomentowanie tej linii zamieni kolejnosc wypisywania
         sorted_list=[]
         for results in sorted_results:
             line = results[0] + " " + str(results[1]) +"\n"
             sorted_list.append(line)
         file = open(Player_File,"r+").writelines(sorted_list)
+
+def Get_Results(Player_Name, Difficulty):      #funkcja przyjmuje jako argumenty nick gracza, oraz poziom trudnosci, ktory ma zostac
+    Player_File = str(Player_Name) + ".txt"    #odczytany (oba typu string) i zwraca tablice 5 najwyzszych wynikow uzyskanych na
+    file = open(Player_File,"r+").readlines()  #danym poziomie trudnosci
+    result = []
+    for words in file:
+        line = words.split()
+        array = [str(line[0]),float(line[1])]
+        if array[0] == Difficulty:
+            result.append(array[1])
+    if len(result) > 5:
+        result = result[0:5]
+    return result
+
